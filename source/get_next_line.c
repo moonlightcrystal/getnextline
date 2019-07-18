@@ -6,11 +6,11 @@
 /*   By: kcorie <kcorie@student.42.fr>              +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2019/04/28 20:30:28 by kcorie            #+#    #+#             */
-/*   Updated: 2019/05/16 14:36:57 by kcorie           ###   ########.fr       */
+/*   Updated: 2019/07/18 15:35:19 by kcorie           ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "get_next_line.h"
+#include "../includes/get_next_line.h"
 
 static	int		ft_get_line(char **arr, char **line, int fd, int result)
 {
